@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    /* padding: 0; */
+}
+
+.header hr {
+    margin: 40px;
+
+}
+
+.name {
+    margin: 40px;
+}
+
+.Developer {
+    margin: 40px;
+}
+
+.skills {
+    margin: 40px;
+    width: 500px;
+}
+
+.education {
+    margin: 40px;
+}
+
+.experience {
+    margin: 40px;
+}
+
+.footer {
+    margin: 40px;
+}
+
+.bottom{
+    margin-bottom: 40px;
+    color: green;
+}
+.job {
+    color: blue;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+.bottom-footer {
+    color: green;
+}
